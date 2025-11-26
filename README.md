@@ -59,7 +59,7 @@ Si la entrada es inválida, el programa imprimirá únicamente uno de los siguie
 
 ### ⛔️ Restricciones
 - El programa debe trabajar únicamente con la entrada estándar (no debe pedir datos con input() dentro de la versión que se evalúa).
-- No cambies los nombres de los archivos ni de la función reloj_de_arena
+- No cambies los nombres de los archivos ni de la función reloj_arena
 
 > (*Sugerencia*) Primero valida toda la entrada. Para la figura, calcula cuántos espacios necesitas imprimir antes del carácter `s` en cada línea. El número de espacios y el número de caracteres `s` cambiarán en cada fila.
 
